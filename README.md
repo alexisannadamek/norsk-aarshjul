@@ -1,4 +1,4 @@
-# 🇳🇴 Norsk Årshjul
+# Norsk Årshjul
 
 ### *Living the Norwegian Year*
 
